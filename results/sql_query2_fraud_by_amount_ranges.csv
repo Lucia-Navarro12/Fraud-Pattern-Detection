@@ -1,0 +1,5 @@
+amount_range,total_transactions,fraudulent_transactions,fraud_rate
+0-50,207651,361,0.1738
+200-500,21118,51,0.2415
+50-200,72084,127,0.1762
+500+,9792,41,0.4187
